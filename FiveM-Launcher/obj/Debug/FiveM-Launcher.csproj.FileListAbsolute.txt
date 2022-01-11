@@ -1,0 +1,44 @@
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\bin\Debug\FiveM-Launcher.exe.config
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\bin\Debug\FiveM-Launcher.exe
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\bin\Debug\FiveM-Launcher.pdb
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher_MarkupCompile.cache
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher_MarkupCompile.lref
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher.g.resources
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher.exe
+C:\Users\Administrator\source\repos\FiveM-Launcher\FiveM-Launcher\obj\Debug\FiveM-Launcher.pdb
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.AssemblyReference.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\MainWindow.g.cs
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\App.g.cs
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\MainWindow.baml
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.GenerateResource.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.CoreCompileInputs.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\bin\Debug\Hill-Side.exe.config
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\bin\Debug\Hill-Side.exe
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\bin\Debug\Hill-Side.pdb
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\Hill-Side_MarkupCompile.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\Hill-Side_MarkupCompile.lref
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\Hill-Side.g.resources
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\Hill-Side.exe
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master\FiveM-Launcher\obj\Debug\Hill-Side.pdb
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\bin\Debug\Hill-Side.exe.config
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\bin\Debug\Hill-Side.exe
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\bin\Debug\Hill-Side.pdb
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.AssemblyReference.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\MainWindow.g.cs
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\App.g.cs
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\Hill-Side_MarkupCompile.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\Hill-Side_MarkupCompile.lref
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\MainWindow.baml
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\Hill-Side.g.resources
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.GenerateResource.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\FiveM-Launcher.csproj.CoreCompileInputs.cache
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\Hill-Side.exe
+F:\Fivem server launcher\Basic-FiveM-Launcher-master\Basic-FiveM-Launcher-master - Copy\FiveM-Launcher\obj\Debug\Hill-Side.pdb
